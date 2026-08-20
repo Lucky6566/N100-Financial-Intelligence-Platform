@@ -1,0 +1,11 @@
+company_id,company_name,ticker,sector,industry
+C001,Apple Inc.,AAPL,Technology,Consumer Electronics
+C002,Microsoft Corp.,MSFT,Technology,Software
+C003,Amazon.com Inc.,AMZN,Consumer Discretionary,Internet Retail
+C004,JPMorgan Chase & Co.,JPM,Financials,Banks
+C005,Johnson & Johnson,JNJ,Healthcare,Pharmaceuticals
+C006,Exxon Mobil Corp.,XOM,Energy,Oil & Gas
+C007,Procter & Gamble Co.,PG,Consumer Staples,Household Products
+C008,NVIDIA Corp.,NVDA,Technology,Semiconductors
+C009,Walmart Inc.,WMT,Consumer Staples,Consumer Retail
+C010,Alphabet Inc.,GOOGL,Communication Services,Internet Services

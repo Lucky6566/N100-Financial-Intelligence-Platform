@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+loader_error.txt
+.ipynb_checkpoints/
+.vscode/

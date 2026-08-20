@@ -1,0 +1,13 @@
+table_name,source_file,rows_loaded,rejected_rows,severity
+companies,companies.xlsx,92,0,OK
+sectors,sectors.xlsx,92,0,OK
+profitandloss,profitandloss.xlsx,1177,99,WARNING
+balancesheet,balancesheet.xlsx,1227,85,WARNING
+cashflow,cashflow.xlsx,1098,89,WARNING
+analysis,analysis.xlsx,16,4,WARNING
+documents,documents.xlsx,1457,128,WARNING
+prosandcons,prosandcons.xlsx,14,2,WARNING
+financial_ratios,financial_ratios.xlsx,1160,24,WARNING
+peer_groups,peer_groups.xlsx,56,0,OK
+stock_prices,stock_prices.xlsx,5520,0,OK
+market_cap,market_cap.xlsx,552,0,OK
